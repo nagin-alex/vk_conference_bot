@@ -1,0 +1,13 @@
+certifi==2019.11.28
+chardet==3.0.4
+chatbot==1.5.2b0
+coverage==5.0.3
+idna==2.8
+peewee==3.13.2
+Pillow==7.0.0
+pony==0.7.13
+psycopg2-binary==2.8.5
+requests==2.22.0
+six==1.14.0
+urllib3==1.25.8
+vk-api==11.7.0
